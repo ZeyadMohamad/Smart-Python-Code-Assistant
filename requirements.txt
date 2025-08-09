@@ -1,0 +1,11 @@
+langchain
+langgraph
+gradio
+openai
+faiss-cpu
+python-dotenv
+datasets
+sentence-transformers
+transformers
+accelerate
+langchain-community
